@@ -1,13 +1,10 @@
 //
-//  BSPreviewScrollView.h
+//  PAExtendedScrollView.h
 //
-//  Created by Björn Sållarp on 7/14/10.
-//  NO Copyright 2010 MightyLittle Industries. NO rights reserved.
-// 
-//  Use this code any way you like. If you do like it, please
-//  link to my blog and/or write a friendly comment. Thank you!
+//  Created by Philippe Auriach on 25/08/13.
+//  Based on the work by Björn Sållarp on 7/14/10 (http://blog.sallarp.com)
 //
-//  Read my blog @ http://blog.sallarp.com
+//  MIT License.
 //
 
 #import <UIKit/UIKit.h>

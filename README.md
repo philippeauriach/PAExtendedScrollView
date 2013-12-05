@@ -6,6 +6,6 @@ This class is based on the work made by Björn Sållarp. You can find his origin
 
 Basically, the result will look like this (this is ugly as hell for the example, but you can of course customize the views as you want):
 
-![screenshot](http://philippeauriach.me/PAExtendedScrollView/github_screenshot.png)
+![screenshot](http://philippeauriach.me/projects/imgs/PAExtendedScrollView/github_screenshot.png)
 
 A complete working example is in the repo.
